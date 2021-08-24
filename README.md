@@ -11,4 +11,4 @@ I Swarada, a Tech enthusiast as well as a keen learner... I am always exploring,
 - ✍ Writer by passion, Engineer by profession
 - 😄 Pronouns: You may give any
 - ⚡ Fun fact: "Birds have the wings, but they do not make them Kings...!"
-- ✨ Check out my blog : [Coreartry] (https://coreartry.blogspot.com/)
+- ✨ Check out my blog : [Coreartry](https://coreartry.blogspot.com/)
