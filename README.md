@@ -1,16 +1,14 @@
+## "Recreate what you desire, Create what you aspire..."
+
 ### Hi there 👋
-
 <!--
-**swar186j/swar186j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**swar186j/swar186j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+I Swarada, a Tech enthusiast as well as a keen learner... I am always exploring, putting my ideas and knowlegde out of the box to enhance my skillset. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Data Science Project
+- 🌱 I’m currently learning OpenCv 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✍ Writer by passion, Engineer by profession
+- 😄 Pronouns: You may give any
+- ⚡ Fun fact: "Birds have the wings, but they do not make them Kings...!"
+- ✨ Check out my blog : [Coreartry] (https://coreartry.blogspot.com/)
