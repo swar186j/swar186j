@@ -5,7 +5,7 @@
 **swar186j/swar186j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 I Swarada, a Tech enthusiast as well as a keen learner... I am always exploring, putting my ideas and knowlegde out of the box to enhance my skillset. 
 
-- 🔭 I’m currently working as a Software Engineer
+- 🔭 I’m currently working as a Senior Software Engineer
 - 🌱 Explorig new technologies
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/swarada-jalukar-1108bb191/)
 - ✍ Writer by passion, Engineer by profession
